@@ -11,39 +11,39 @@ Powered by EventPilot
 
 ## Sessions
 
-- CB-01: Coffee Break
+- <img src="slides/image1.png" width = 25 align = top> CB-01: Coffee Break
     - Location: Summit Ballroom FoyerCoffee breaks allow even mo...
 
-- AIAA-2024-3657: Machine Learning and Optimization Pipeline for Agricultural Drone Aerial Imaging Operations
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-3657: Machine Learning and Optimization Pipeline for Agricultural Drone Aerial Imaging Operations
     - Max Z Li
     - Location: Alliance Ballroom 305Presentation ID: AIA...
 
-- AIAA-2024-3658: Implementation of a Data-Driven Control Method for Unmanned Aerial Vehicles
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-3658: Implementation of a Data-Driven Control Method for Unmanned Aerial Vehicles
     - Yevhenii Kovryzhenko
     - Location: Alliance Ballroom 305Presentation ID: AIA...
 
-- CB-02: Coffee Break
+- <img src="slides/image1.png" width = 25 align = top> CB-02: Coffee Break
     - Location: Summit Ballroom FoyerCoffee breaks allow even mo...
 
-- UAS-03: Autonomous Mission Management Concepts
+- <img src="slides/image1.png" width = 25 align = top> UAS-03: Autonomous Mission Management Concepts
     - Michael J Logan
     - Location: Alliance Ballroom 305Session Organizers & Hos...
 
-- AIAA-2024-3734: Reinforcement Learning for Cognitive Detection and Characterization of Advanced Aerospace Vehicles
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-3734: Reinforcement Learning for Cognitive Detection and Characterization of Advanced Aerospace Vehicles
     - Rajiv Thummala
     - Location: Alliance Ballroom 304Presentation ID: AIA...
 
-- EATS-HH: EATS Social Hour
+- <img src="slides/image1.png" width = 25 align = top> EATS-HH: EATS Social Hour
     - Location: Alliance Ballroom 320Join us for an evening expl...
 
 -  CB-03: Coffee Break Sponsored by ispace
     - Location: Summit Ballroom/Expo HallCoffee breaks allow eve...
 
-- UAS-04: Optimising Human-Machine Relationship
+- <img src="slides/image1.png" width = 25 align = top> UAS-04: Optimising Human-Machine Relationship
     - Ben Wanetick
     - Location: Alliance Ballroom 305Session Organizers & Hos...
 
-- AIAA-2024-3821: Usage of Integrated UAVs to Improve Overall Wildfire Response Efficiency
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-3821: Usage of Integrated UAVs to Improve Overall Wildfire Response Efficiency
     - Samuel Murillo
     - Location: Alliance Ballroom 305Presentation ID: AIA... 
 
@@ -94,7 +94,7 @@ Powered by EventPilot
         > 
         > Advisor: Jacqueline Huyun
 
-- AIAA-2024-3822: Intelligent Change Detection System: Autonomous Intelligent Machine Agent Model Development
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-3822: Intelligent Change Detection System: Autonomous Intelligent Machine Agent Model Development
     - Vincent E Houston
     - Location: Alliance Ballroom 305Presentation ID: AIA...
 
@@ -137,45 +137,45 @@ Powered by EventPilot
         > -   8
         > -   D7.55% accuracy
 
-- LUNCH-01: Luncheon
+- <img src="slides/image1.png" width = 25 align = top> LUNCH-01: Luncheon
     - Location: Summit Ballroom/Expo HallGrab your lunch and joi...
 
-- SPEC-09: Thompson Lecture: 'Small Satellites – the Foundation of NewSpace'
+- <img src="slides/image1.png" width = 25 align = top> SPEC-09: Thompson Lecture: 'Small Satellites – the Foundation of NewSpace'
     - Sir Martin Sweeting
     - Location: Forum Ballroom 134The David W. Thompson Lectures...
 
-- AIAA-03: Rising Leaders in Aerospace: Speed Mentoring
+- <img src="slides/image1.png" width = 25 align = top> AIAA-03: Rising Leaders in Aerospace: Speed Mentoring
     - Location: Forum Ballroom 109
 
-- EATS-16: Aerospace Electrification Benefiting From AI and Beyond
+- <img src="slides/image1.png" width = 25 align = top> EATS-16: Aerospace Electrification Benefiting From AI and Beyond
     - Evgeni D. Ganev, Arif Salam
     - Location: Alliance Ballroom 308The aerospace industry is e...
 
-- ECON-01: Space Cost Drivers and Market Analysis
+- <img src="slides/image1.png" width = 25 align = top> ECON-01: Space Cost Drivers and Market Analysis
     - John Carsten, Christine Marie Edwards
     - Location: Summit Ballroom 207Session Organizers & Hosts...
 
-- EXPL-01: Autonomous Operations in Space
+- <img src="slides/image1.png" width = 25 align = top> EXPL-01: Autonomous Operations in Space
     - Mark J Veyette, Jr., Smrithi Keerthivarman
     - Location: Summit Ballroom 206Session Organizers & Hosts...
 
-- MICRO-01: Founder's Panel
+- <img src="slides/image1.png" width = 25 align = top> MICRO-01: Founder's Panel
     - Rob Meyerson, Nicole Wagner, Thomas Zurbuchen
     - Location: Forum Ballroom 134Join Rob Meyerson, founder and...
 
-- UAS-05: Unmanned Systems Student Papers
+- <img src="slides/image1.png" width = 25 align = top> UAS-05: Unmanned Systems Student Papers
     - Andrew R Lacher, Keith D Hoffler
     - Location: Alliance Ballroom 304Session Organizers & Hos...
 
-- AIAA-2024-3852: Rolling Horizon Demand Capacity Balancing in UAM: Integrating Machine Learning for Conflict Resolution
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-3852: Rolling Horizon Demand Capacity Balancing in UAM: Integrating Machine Learning for Conflict Resolution
     - Shulu Chen
     - Location: Summit Ballroom 226Presentation ID: AIAA-...
 
-- HUB-05: The Pilot Brain: How Personality Affects Safety
+- <img src="slides/image1.png" width = 25 align = top> HUB-05: The Pilot Brain: How Personality Affects Safety
     - Erika Armstrong
     - Location: the HUBWe train pilots on aircraft systems, prop...
 
-- AIAA-2024-4807: A Hybrid Data-Driven Approach for Autonomous Fault Detection and Prognosis of a Spacecraft Reaction Wheel
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4807: A Hybrid Data-Driven Approach for Autonomous Fault Detection and Prognosis of a Spacecraft Reaction Wheel
     - Andrew B Howard
     - Location: Summit Ballroom 206Presentation ID: AIAA-...
 
@@ -201,7 +201,7 @@ Powered by EventPilot
         > 
         > Next steps
 
-- AIAA-2024-4808: Space Data Fusion for Unified Automated Operation System
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4808: Space Data Fusion for Unified Automated Operation System
     - Naushad Rahman
     - Location: Summit Ballroom 206Presentation ID: AIAA-...
 
@@ -217,15 +217,15 @@ Powered by EventPilot
         > -   Delta-V Analytics (DVA)
         > -   AI/cloud for satellite lifecycle optimization
 
-- MICRO-04: Overcoming the Cold Start Problem
+- <img src="slides/image1.png" width = 25 align = top> MICRO-04: Overcoming the Cold Start Problem
     - Ian McCubbin, Charles "Zeke" Brechtel, Cody Bronkar, Matt Kozlov, Sherman Williams
     - Location: Forum Ballroom 134Building a space tech company ...
 
-- MICRO-08: Smithsonian Air and Space Museum/AIAA Outer Space Heritage Summit Outbrief
+- <img src="slides/image1.png" width = 25 align = top> MICRO-08: Smithsonian Air and Space Museum/AIAA Outer Space Heritage Summit Outbrief
     - Todd Mosher, Teasel Muir-Harmony
     - Location: Forum Ballroom 137The Smithsonian National Air a...
 
-- AIAA-2024-4809: Testing Modern Off-the-shelf Processors for Accelerating Space AI Applications
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4809: Testing Modern Off-the-shelf Processors for Accelerating Space AI Applications
     - Eduardo Macias-Zugasti
     - Location: Summit Ballroom 206Presentation ID: AIAA-...
 
@@ -261,7 +261,7 @@ Powered by EventPilot
         > -   Testing with radiation
         > -   Testing with resistance: didn't get to use testing facility with radiation from NASA
 
-- AIAA-2024-4810: Using AI To Transform Space Operations
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4810: Using AI To Transform Space Operations
     - Ralph Grundler
     - Location: Summit Ballroom 206Presentation ID: AIAA-...
 
@@ -353,24 +353,24 @@ Powered by EventPilot
 
         </details> <br>
 
-- CB-04: Coffee Break
+- <img src="slides/image1.png" width = 25 align = top> CB-04: Coffee Break
     - Location: Summit Ballroom/Expo HallCoffee breaks allow eve...
 
 - SEC-01: On-orbit Threats and Satellite Safety
     - Rajiv Thummala, Sean Phillips
     - Location: Summit Ballroom 206Session Organizers & Hosts...
 
-- AIAA-2024-3981: Machine Learning to Improve Buckling Predictions for Efficient Structural Optimization of Aircraft Wings
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-3981: Machine Learning to Improve Buckling Predictions for Efficient Structural Optimization of Aircraft Wings
     - Sean P Engelstad
     - Location: Alliance Ballroom 302Presentation ID: AIA...
 
-- AIAA-2024-4850: Software Runs Everything Off-World: Let’s Make Sure It’s Correct and Secure
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4850: Software Runs Everything Off-World: Let’s Make Sure It’s Correct and Secure
     - Richard C Linger
     - Location: Summit Ballroom 206Presentation ID: AIAA-...
 
         > -   Summary this is akin to automated proof of correctness protocol
 
-- MICRO-10: Technology Microtrends that are Shaping the Future of Aerospace
+- <img src="slides/image1.png" width = 25 align = top> MICRO-10: Technology Microtrends that are Shaping the Future of Aerospace
     - A.C. Charania, Peter Hughes, Iris Lan, Nicholas Skytland, Bhanu Sood, Phillip Williams, Charles Norton
     - Location: Forum Ballroom 134Technology microtrends are nic...
 
@@ -380,73 +380,73 @@ Powered by EventPilot
         > -   Quantum
         > -   Use AI for generative design of components
 
-- CB-05: Coffee Break Sponsored by ispace
+- <img src="slides/image1.png" width = 25 align = top> CB-05: Coffee Break Sponsored by ispace
     - Location: Summit Ballroom/Expo HallCoffee breaks allow eve...
 
-- FL-07: Generative AI in Defense: is ChatGPT good enough for Aerospace?
+- <img src="slides/image1.png" width = 25 align = top> FL-07: Generative AI in Defense: is ChatGPT good enough for Aerospace?
     - Priyanka Dank, Liya Wang, Christine Edwards, Nathan Rigoni, Trevor Sands, Rachel Smith, Michael Ellis
     - Location: Alliance Ballroom 321The whirlwind of generative...
 
-- META-09: Astrodebates - Part I
+- <img src="slides/image1.png" width = 25 align = top> META-09: Astrodebates - Part I
     - Sindhu Belki, Carissa Christensen, Mike Gold, Emma Louden, Michelle Lucas, Shawna Pandya, Brendan Rosseau, Shreya
 Srivathsan
     - Location: Forum Ballroom 134Join Emma Louden, Caryn Schene...
 
-- FL-08: Breaking AI: the cyber risks of AI in Aerospace
+- <img src="slides/image1.png" width = 25 align = top> FL-08: Breaking AI: the cyber risks of AI in Aerospace
     - Andrew Lacher, Arlanda Johnson, Jacob Kohav, Erik Lopez, Trevor Sands, Neil Serebryany, Chris Serrano
     - Location: Alliance Ballroom 321As artificial intelligence ...
 
-- META-13: Astrodebates - Part II
+- <img src="slides/image1.png" width = 25 align = top> META-13: Astrodebates - Part II
     - Kryn Ambs, Christine Dubbert, Carissa Christensen, Alyssa Goessler, Mike Gold, Shawna Pandya, Lindsey Wiser
     - Location: Forum Ballroom 134Join Emma Louden, Caryn Schene...
 
-- META-16: Developing and Recruiting the Workforce of Tomorrow, Today
+- <img src="slides/image1.png" width = 25 align = top> META-16: Developing and Recruiting the Workforce of Tomorrow, Today
     - Robert Gibbs, Gen. Lester Lyles, Michael O'Donnell, Danielle Storan, Noelle Zietsman
     - Location: Forum Ballroom 113The National Space Council, in...
 
-- META-23: The Good, the Fad, and the Buggy: Harnessing AI’s Potential for Space
+- <img src="slides/image1.png" width = 25 align = top> META-23: The Good, the Fad, and the Buggy: Harnessing AI’s Potential for Space
     - Kevin Bell, Belinda Marchand, David Salvagnini, Al Tadros
     - Location: Forum Ballroom 137Artificial intelligence (AI) i...
 
-- LUNCH-02: Luncheon
+- <img src="slides/image1.png" width = 25 align = top> LUNCH-02: Luncheon
     - Location: Summit Ballroom/Expo HallGrab your lunch and joi...
 
 -  HUB-07: AI-in-the-Loop: An Aerospace Perspective
     - Location: the HUBAI-in-the-Loop, its recent popularity, an...
-    - EXPL-08: Autonomous Systems for the Moon and Mars II: AI, Agency, Authority, and Agility in Autonomous Systems Capability
+    - <img src="slides/image1.png" width = 25 align = top> EXPL-08: Autonomous Systems for the Moon and Mars II: AI, Agency, Authority, and Agility in Autonomous Systems Capability
 
 - Maturation
     - B. Danette Allen
     - Location: Summit Ballroom 206Panel Discussion from 2:00-3:...
 
-- FL-09: TinyML: the role of efficient machine learning in Aerospace
+- <img src="slides/image1.png" width = 25 align = top> FL-09: TinyML: the role of efficient machine learning in Aerospace
     - Pete Bernard, Sek Chai, Blaise Cole, Jacob Kohav, Mark Veyette
     - Location: Alliance Ballroom 321Artificial intelligence (AI...
 
-- AIAA-2024-4123: Enhancing UAV Delivery Efficiency: A Machine Learning Strategy for Optimizing Minimum Safety Distances in Diverse Weather Conditions
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4123: Enhancing UAV Delivery Efficiency: A Machine Learning Strategy for Optimizing Minimum Safety Distances in Diverse Weather Conditions
     - Daniel Xiao
     - Location: Academy Ballroom 416Presentation ID: AIAA...
 
-- FL-11: Nowcast and Forecast for Safety Data Analytics
+- <img src="slides/image1.png" width = 25 align = top> FL-11: Nowcast and Forecast for Safety Data Analytics
     - Michael Bartron, Eric Chang, Andrew Dunbeck, Daniel Kiggins, Nikunj Oza, Kunal Sarkhel
     - Location: Alliance Ballroom 321Safety intelligence continu...
 
-- AIAA-2024-4858: Who Here Wants Irresponsible AI?
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4858: Who Here Wants Irresponsible AI?
     - B. Danette Allen
     - Location: Summit Ballroom 206Presentation ID: AIAA-...
 
-- AIAA-04: Rising Leaders in Aerospace: Young Professionals Panel & Social Hour – Is the Grass Always Greener on the Other Side?
+- <img src="slides/image1.png" width = 25 align = top> AIAA-04: Rising Leaders in Aerospace: Young Professionals Panel & Social Hour – Is the Grass Always Greener on the Other Side?
     - Ian Thomas, Robbie Harris, Brian Cayton, Marat Kulakhmetov
     - Location: Forum Ballroom 111A panel discussing the pros an...
 
-- AIAA-2024-4833: Towards a Full Stack Extended Reality Software Platform (ESP™) for Space Mission Planning, Implementation, and Training With an Open Architecture Based on NVIDIA Omniverse
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4833: Towards a Full Stack Extended Reality Software Platform (ESP™) for Space Mission Planning, Implementation, and Training With an Open Architecture Based on NVIDIA Omniverse
     - Miguel Arias-Estrada
     - Location: Forum Ballroom 128Presentation ID: AIAA-2...
 
         > Digital Twin:
         > -   Omniverse training
 
-- MICRO-53: Cybersecurity in the Rising Space Economy
+- <img src="slides/image1.png" width = 25 align = top> MICRO-53: Cybersecurity in the Rising Space Economy
     - Location: Forum Ballroom 113Cybersecurity is especially cr...
 
         > Cybersecurity
@@ -507,36 +507,36 @@ Srivathsan
 
         </details> <br>
 
-- HUB-11: AI + Aerospace, Exploring Unique Challenges and New Approaches, Presented by AIAA
+- <img src="slides/image1.png" width = 25 align = top> HUB-11: AI + Aerospace, Exploring Unique Challenges and New Approaches, Presented by AIAA
     - Location: the HUB
 
-- CB-06: Coffee Break
+- <img src="slides/image1.png" width = 25 align = top> CB-06: Coffee Break
     - Location: Summit Ballroom/Expo HallCoffee breaks allow eve...
 
-- MDO-11: Physics-Informed Machine Learning
+- <img src="slides/image1.png" width = 25 align = top> MDO-11: Physics-Informed Machine Learning
     - Steve Paul, Andrew Ning
     - Location: Alliance Ballroom 302Session Organizers & Hos...
 
-- MICRO-26: Millennials and Gen Z: The New Space Age
+- <img src="slides/image1.png" width = 25 align = top> MICRO-26: Millennials and Gen Z: The New Space Age
     - Fay Ghani, Amy Imhoff, Emma Louden, Audrey Scott, Martina Dimoska
     - Location: Forum Ballroom 137Young people have ambitious pl...
 
-- SOCIETY-01: Educating and Inspiring the Next Space Generation
+- <img src="slides/image1.png" width = 25 align = top> SOCIETY-01: Educating and Inspiring the Next Space Generation
     - Daniel Selva
     - Location: Summit Ballroom 207Session Organizers & Hosts...
 
-- AIAA-2024-4155: Data-Driven Machine Learning Informed Maneuvering and Control Simulation
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4155: Data-Driven Machine Learning Informed Maneuvering and Control Simulation
     - Hua Shan
     - Location: Academy Ballroom 404Presentation ID: AIAA...
 
-- AIAA-2024-4902: Education Paradigm Shift To Maintain Human Competitive Advantage Over AI
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4902: Education Paradigm Shift To Maintain Human Competitive Advantage Over AI
     - Stanislav Selitskiy
     - Location: Summit Ballroom 207Presentation ID: AIAA-...
 
-- HUB-10: Paper Airplane Contest
+- <img src="slides/image1.png" width = 25 align = top> HUB-10: Paper Airplane Contest
     - Location: the HUBTest your design and flight operations sk...
 
-- AIAA-2024-4204: Physics-Informed Machine Learning Towards a Real-Time Spacecraft Thermal Simulator
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4204: Physics-Informed Machine Learning Towards a Real-Time Spacecraft Thermal Simulator
     - Manaswin Oddiraju
     - Location: Alliance Ballroom 302Presentation ID: AIA...
 
@@ -593,33 +593,33 @@ Srivathsan
         > -   Encoding
         > -   Orbit predictions
 
-- MICRO-54: From Art to Architecture: Inspiring and Building Our Version of a Star Trek Future
+- <img src="slides/image1.png" width = 25 align = top> MICRO-54: From Art to Architecture: Inspiring and Building Our Version of a Star Trek Future
     - Ubaldo Ciminieri, Sarah Kalmeta, Ashley Kowalski, Sabrina Thompson, Garrett Wang
     - Location: Forum Ballroom 134The convergence of art, techno...
 
-- HH-01: Aero + Space Reception, sponsored by Northrop Grumman and Vast
+- <img src="slides/image1.png" width = 25 align = top> HH-01: Aero + Space Reception, sponsored by Northrop Grumman and Vast
     - Location: Summit Ballroom/Expo HallJoin us for an evening ...
 
-- CB-07: Coffee Break Sponsored by MORI Associates
+- <img src="slides/image1.png" width = 25 align = top> CB-07: Coffee Break Sponsored by MORI Associates
     - Location: Summit Ballroom/Expo HallCoffee breaks allow eve...
 
-- ATS-11: Machine Learning and Artificial Intelligence for Aviation I
+- <img src="slides/image1.png" width = 25 align = top> ATS-11: Machine Learning and Artificial Intelligence for Aviation I
     - Kam K.H. Ng
     - Location: Summit Ballroom 227Session Organizers & Hosts...
 
-- HMT-01: Innovative Human-Machine Interfaces
+- <img src="slides/image1.png" width = 25 align = top> HMT-01: Innovative Human-Machine Interfaces
     - Dalan C Loudermilk
     - Location: Alliance Ballroom 308Session Organizers & Hos...
 
-- ISG-01: Information Systems
+- <img src="slides/image1.png" width = 25 align = top> ISG-01: Information Systems
     - Jordan D Larson, Chetan Shrikant Kulkarni
     - Location: Alliance Ballroom 309Session Organizers & Hos...
 
-- AIAA-2024-4219: Aviary: An Open-Source Multidisciplinary Design, Analysis, and Optimization Tool for Modeling Aircraft With Analytic Gradients
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4219: Aviary: An Open-Source Multidisciplinary Design, Analysis, and Optimization Tool for Modeling Aircraft With Analytic Gradients
     - Jennifer Gratz
     - Location: Alliance Ballroom 304Presentation ID: AIA...
 
-- AIAA-2024-4250: AviationGPT: A Large Language Model for the Aviation Domain
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4250: AviationGPT: A Large Language Model for the Aviation Domain
     - Liya Wang
     - Location: Summit Ballroom 227Presentation ID: AIAA-...
 
@@ -643,11 +643,11 @@ Srivathsan
 
         </details> <br>
 
-- AIAA-05: How to Fund Your Education with AIAA
+- <img src="slides/image1.png" width = 25 align = top> AIAA-05: How to Fund Your Education with AIAA
     - Michael Lagana
     - Location: Summit Ballroom 206Learn how you can make the mo...
 
-- AIAA-2024-4251: AmeliaTF: A Large Model and Dataset for Airport Surface Movement Forecasting
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4251: AmeliaTF: A Large Model and Dataset for Airport Surface Movement Forecasting
     - Jay Patrikar
     - Location: Summit Ballroom 227Presentation ID: AIAA-... 
 
@@ -702,11 +702,11 @@ Srivathsan
 
         </details> <br>
 
-- AIAA-2024-4216: Analyzing the Physiological Effects of Cybersickness Onset by Virtual Reality Headsets
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4216: Analyzing the Physiological Effects of Cybersickness Onset by Virtual Reality Headsets
     - Tabitha Hunter
     - Location: Alliance Ballroom 308Presentation ID: AIA...
 
-- AIAA-2024-4252: A Classification Model for Traffic Flow Management Scenarios Under Uncertainty
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4252: A Classification Model for Traffic Flow Management Scenarios Under Uncertainty
     - Christine P Taylor
     - Location: Summit Ballroom 227Presentation ID: AIAA-...
 
@@ -728,52 +728,52 @@ Srivathsan
         > 
         > Mentioned need to demonstrate that models were correct, etc.
 
-- LUNCH-03: Luncheon
+- <img src="slides/image1.png" width = 25 align = top> LUNCH-03: Luncheon
     - Location: Summit Ballroom/Expo Hall
 
-- ATS-13: Machine Learning and Artificial Intelligence for Aviation II
+- <img src="slides/image1.png" width = 25 align = top> ATS-13: Machine Learning and Artificial Intelligence for Aviation II
     - James C Jones, Stephen S Clarke
     - Location: Summit Ballroom 227Session Organizers & Hosts...
 
-- F360-09: AI's Applications Across the Aviation System
+- <img src="slides/image1.png" width = 25 align = top> F360-09: AI's Applications Across the Aviation System
     - Luis E. Alvarez, Yemaya Bordain, Marc Brittain, Mike Jones, Olivia J Pinon-Fischer, Paul Schifferle
     - Location: Academy Ballroom 421Artificial Intelligence has ...
 
         > AI's applications across the aviation system
 
-- HMT-02: Human Factors and Human-Machine Performance
+- <img src="slides/image1.png" width = 25 align = top> HMT-02: Human Factors and Human-Machine Performance
     - Rania Ghatas
     - Location: Alliance Ballroom 308Session Organizers & Hos...
 
-- IS-03: Intelligent Operations
+- <img src="slides/image1.png" width = 25 align = top> IS-03: Intelligent Operations
     - Tejas G Puranik
     - Location: Alliance Ballroom 310Session Organizers & Hos...
 
-- MDO-13: Emerging Methods, Software, and Challenges
+- <img src="slides/image1.png" width = 25 align = top> MDO-13: Emerging Methods, Software, and Challenges
     - Ana Paula Curty Cuco, Steve Paul
     - Location: Alliance Ballroom 302Session Organizers & Hos...
 
-- AIAA-2024-4401: Surrogate-Based Optimization of System Architectures Subject to Hidden Constraints
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4401: Surrogate-Based Optimization of System Architectures Subject to Hidden Constraints
     - Jasper H. Bussemaker
     - Location: Alliance Ballroom 302Presentation ID: AIA...
 
-- AIAA-2024-4357: Machine Learning of Multi-Modal Influences on Airport Pushback Delays
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4357: Machine Learning of Multi-Modal Influences on Airport Pushback Delays
     - Jimmy Krozel
     - Location: Summit Ballroom 227Presentation ID: AIAA-...
 
-- AIAA-2024-4408: Modeling of a Linear Parameter Varying Full Caliber Aero Stabilized Ammunition and Airframe Stability Analysis
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4408: Modeling of a Linear Parameter Varying Full Caliber Aero Stabilized Ammunition and Airframe Stability Analysis
     - Samsul Arefin
     - Location: Academy Ballroom 416Presentation ID: AIAA...
 
-- AIAA-2024-4404: Industrialization of MDO Methods, Software and Processes, From MBSE to High Fidelity Multi-Components Wing, Pylon and Nacelle Optimisation
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4404: Industrialization of MDO Methods, Software and Processes, From MBSE to High Fidelity Multi-Components Wing, Pylon and Nacelle Optimisation
     - Anne Gazaix
     - Location: Alliance Ballroom 302Presentation ID: AIA...
 
-- MICRO-30: AI and Autonomy for Robotic Lunar Rover Surface Exploration
+- <img src="slides/image1.png" width = 25 align = top> MICRO-30: AI and Autonomy for Robotic Lunar Rover Surface Exploration
     - Abigail Breitfeld, Steve Chien, Jean-Pierre de la Croix, Terry Fong
     - Location: Forum Ballroom 113This session will bring togeth...
 
-- AIAA-2024-4405: Gradient-Enhanced Bayesian Optimization With Application to Aerodynamic Shape Optimization
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4405: Gradient-Enhanced Bayesian Optimization With Application to Aerodynamic Shape Optimization
     - Andre Marchildon
     - Location: Alliance Ballroom 302Presentation ID: AIA...
 
@@ -782,30 +782,30 @@ Srivathsan
         > Probabilistic surrogate  
         > Acquisition function
 
-- CB-08: Coffee Break
+- <img src="slides/image1.png" width = 25 align = top> CB-08: Coffee Break
     - Location: Summit Ballroom/Expo HallCoffee breaks allow eve...
 
-- EXPL-21: In-Space Servicing/Assembly/Manufacturing
+- <img src="slides/image1.png" width = 25 align = top> EXPL-21: In-Space Servicing/Assembly/Manufacturing
     - Hao Chen, Paul T Grogan
     - Location: Forum Ballroom 126Session Organizers & Hosts:...
 
-- FL-14: Aviation Operations and other Applications of Autonomy
+- <img src="slides/image1.png" width = 25 align = top> FL-14: Aviation Operations and other Applications of Autonomy
     - Andrew Lacher
     - Location: Alliance Ballroom 321Autonomous systems will be ...
 
-- HMT-03: AI, xAI, and ML for Human-Machine Teaming
+- <img src="slides/image1.png" width = 25 align = top> HMT-03: AI, xAI, and ML for Human-Machine Teaming
     - Natalia Alexandrov, Eric T Chancey
     - Location: Alliance Ballroom 308Session Organizers & Hos...
 
-- AIAA-2024-4460: Compressed Representations of Ensemble Forecasts for Strategic Traffic Flow Management Artificial Intelligence
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4460: Compressed Representations of Ensemble Forecasts for Strategic Traffic Flow Management Artificial Intelligence
     - Sandip Roy
     - Location: Summit Ballroom 227Presentation ID: AIAA-...
 
-- AIAA-2024-4496: Run Time Assurance and Human AI Fluency in Crewed Autonomous Intelligence Surveillance and Reconnaissance
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4496: Run Time Assurance and Human AI Fluency in Crewed Autonomous Intelligence Surveillance and Reconnaissance
     - Richard Agbeyibor
     - Location: Alliance Ballroom 308Presentation ID: AIA...
 
-- AIAA-2024-4945: Expanding the Operational Ecosystem of Space Systems Through AI-Enabled Digital Twins
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4945: Expanding the Operational Ecosystem of Space Systems Through AI-Enabled Digital Twins
     - Christine Marie Edwards
     - Location: Summit Ballroom 207Presentation ID: AIAA-...
 
@@ -836,7 +836,7 @@ Srivathsan
 <!-- ![test](slides/slide-12.png)  -->
 
 
-- AIAA-2024-4946: Optimizing Fire Detection in Edge Devices: Integrating Skip Connections and Early Exits in Compact Models
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4946: Optimizing Fire Detection in Edge Devices: Integrating Skip Connections and Early Exits in Compact Models
     - Sambit Bhattacharya
     - Location: Summit Ballroom 207Presentation ID: AIAA-...
 
@@ -879,29 +879,29 @@ Srivathsan
 
         </details> <br>
 
-- SPEC-10: Closing Ceremony
+- <img src="slides/image1.png" width = 25 align = top> SPEC-10: Closing Ceremony
     - Location: Forum Ballroom 134
 
-- CB-09: Coffee Break
+- <img src="slides/image1.png" width = 25 align = top> CB-09: Coffee Break
     - Location: Summit Ballroom FoyerCoffee breaks allow even mo...
 
-- F360-05: Executive Panel - CTO Panel
+- <img src="slides/image1.png" width = 25 align = top> F360-05: Executive Panel - CTO Panel
     - Graham Drozeski, Ben Iannotta, Mary Lombardo, Linda O'Brien, Stéphane Viala
     - Location: Academy Ballroom 421Join us for an enlightening ...
 
-- HMT-04: Data-Driven Human-Machine Systems
+- <img src="slides/image1.png" width = 25 align = top> HMT-04: Data-Driven Human-Machine Systems
     - Vincent E Houston
     - Location: Alliance Ballroom 308Session Organizers & Hos...
 
-- MDO-15: Metamodeling and Reduced-Order Models
+- <img src="slides/image1.png" width = 25 align = top> MDO-15: Metamodeling and Reduced-Order Models
     - Leifur T Leifsson, Christopher A. Lupp
     - Location: Alliance Ballroom 302Session Organizers & Hos...
 
-- MST-09: Modeling and Simulation of Advanced Aircraft
+- <img src="slides/image1.png" width = 25 align = top> MST-09: Modeling and Simulation of Advanced Aircraft
     - Alaa A Elmiligui
     - Location: Academy Ballroom 416Session Organizers & Host...
 
-- AIAA-2024-4569: Text Summarization in Aviation Safety: A Comparative Study of Large Language Models
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4569: Text Summarization in Aviation Safety: A Comparative Study of Large Language Models
     - Jonathan Emmons
     - Location: Alliance Ballroom 308Presentation ID: AIA...
 
@@ -986,11 +986,11 @@ Srivathsan
         > -   Gamification/
         > -   Tuning summaries to use standardized language/lexicon <br> <br>
 
-- AIAA-2024-4578: Conceptual Aerothermal-Structural Design Space Exploration Using Adaptive Machine Learning
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4578: Conceptual Aerothermal-Structural Design Space Exploration Using Adaptive Machine Learning
     - Atticus J Beachy
     - Location: Alliance Ballroom 302Presentation ID: AIA...
 
-- AIAA-2024-4570: Automatic Speech Recognition Model Fine-Tuning and Development of a New Evaluation Metric for Terminal  Airspace Safety Analysis
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4570: Automatic Speech Recognition Model Fine-Tuning and Development of a New Evaluation Metric for Terminal  Airspace Safety Analysis
     - Aditya Arra
     - Location: Alliance Ballroom 308Presentation ID: AIA...
 
@@ -1087,42 +1087,42 @@ Srivathsan
     - Olivia J Pinon-Fischer
     - Location: Academy Ballroom 415Session Organizers & Host...
 
-- IS-06: Machine Learning Systems
+- <img src="slides/image1.png" width = 25 align = top> IS-06: Machine Learning Systems
     - Chetan Shrikant Kulkarni
     - Location: Alliance Ballroom 310Session Organizers & Hos...
 
-- AIAA-2024-4637: Security Assessments for Microservices-Based Aviation Automation Systems
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4637: Security Assessments for Microservices-Based Aviation Automation Systems
     - Sandip Roy
     - Location: Alliance Ballroom 308Presentation ID: AIA...
 
-- AIAA-2024-4648: Towards Safe Aircraft Control With AI: Reinforcement Learning With Guardian Angels and Mischievous Gremlins
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4648: Towards Safe Aircraft Control With AI: Reinforcement Learning With Guardian Angels and Mischievous Gremlins
     - Cynthia Koopman
     - Location: Alliance Ballroom 310Presentation ID: AIA...
 
-- AIAA-2024-4616: Artificial Neural Network Surrogate Modeling for Cavity-Released Store Separation Trajectory Prediction
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4616: Artificial Neural Network Surrogate Modeling for Cavity-Released Store Separation Trajectory Prediction
     - Christopher Coley
     -Location: Academy Ballroom 404Presentation ID: AIAA...
 
-- AIAA-2024-4638: Cyber Resiliency and the Implementation of a Host-Based Intrusion Detection System in an Urban Air Mobility Environment
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4638: Cyber Resiliency and the Implementation of a Host-Based Intrusion Detection System in an Urban Air Mobility Environment
     - Terrence Lewis
     - Location: Alliance Ballroom 308Presentation ID: AIA...
 
-- AIAA-2024-4639: Simulating Secure Data Exchange and Storage for Urban Air Mobility Environments
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4639: Simulating Secure Data Exchange and Storage for Urban Air Mobility Environments
     - Aidan Jones
     - Location: Alliance Ballroom 308Presentation ID: AIA...
 
-- CB-10: Coffee Break
+- <img src="slides/image1.png" width = 25 align = top> CB-10: Coffee Break
     - Location: Summit Ballroom FoyerCoffee breaks allow even mo...
 
 - DE-04: Design Science Research and Applications of AI and ML
     - Gregory L Roth, Paul Novoa
     - Location: Alliance Ballroom 304Session Organizers & Hos...
 
-- AIAA-2024-4659: Identifying Precursors to Flight Safety Events: A Comparative Analysis of Machine Learning Models Using FOQA Data
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4659: Identifying Precursors to Flight Safety Events: A Comparative Analysis of Machine Learning Models Using FOQA Data
     - Balaji Ravikanti
     - Location: Alliance Ballroom 320Presentation ID: AIA...
 
-- AIAA-2024-4665: DeepSPACE: Generative AI for Configuration Design Space Exploration
+- <img src="slides/image1.png" width = 25 align = top> AIAA-2024-4665: DeepSPACE: Generative AI for Configuration Design Space Exploration
     - Emilio M Botero
     - Location: Alliance Ballroom 304Presentation ID: AIA...
 
