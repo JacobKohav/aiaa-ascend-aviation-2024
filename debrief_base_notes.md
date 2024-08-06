@@ -215,7 +215,7 @@ Powered by EventPilot
         > -   Integrate commercial and government assets <br> <br>
         > 
         > -   Delta-V Analytics (DVA)
-        > -   AI/cloud for satelitte lifecycle optimization
+        > -   AI/cloud for satellite lifecycle optimization
 
 - MICRO-04: Overcoming the Cold Start Problem
     - Ian McCubbin, Charles "Zeke" Brechtel, Cody Bronkar, Matt Kozlov, Sherman Williams
@@ -345,6 +345,13 @@ Powered by EventPilot
         > -   \> reliability
         > -   \< risk
         > -   Affordability
+
+        <details> 
+        <summary> Slides </summary>  
+        
+        <img src="slides/AIAA-2024-4810-slide-26.png" width = 800> 
+
+        </details> <br>
 
 - CB-04: Coffee Break
     - Location: Summit Ballroom/Expo HallCoffee breaks allow eve...
@@ -493,6 +500,13 @@ Srivathsan
         > -   Paris
         > -   EU CySat
 
+        <details> 
+        <summary> Slides </summary>  
+        
+        <img src="slides/MICRO-53-slide-25.png" width = 800> 
+
+        </details> <br>
+
 - HUB-11: AI + Aerospace, Exploring Unique Challenges and New Approaches, Presented by AIAA
     - Location: the HUB
 
@@ -618,6 +632,17 @@ Srivathsan
         > - Write > prompts (ex. few-shot)
         > - RAG > application
 
+        <details> 
+        <summary> Slides </summary>  
+        
+        <img src="slides/AIAA-2024-4250-slide-24.png" width = 800> 
+        <img src="slides/AIAA-2024-4250-slide-23.png" width = 800> 
+        <img src="slides/AIAA-2024-4250-slide-22.png" width = 800> 
+        <img src="slides/AIAA-2024-4250-slide-21.png" width = 800> 
+        <img src="slides/AIAA-2024-4250-slide-20.png" width = 800> 
+
+        </details> <br>
+
 - AIAA-05: How to Fund Your Education with AIAA
     - Michael Lagana
     - Location: Summit Ballroom 206Learn how you can make the mo...
@@ -669,6 +694,14 @@ Srivathsan
         > 
         > Looking for collaborators https://ameliacmu.github.io
 
+        <details> 
+        <summary> Slides </summary>  
+        
+        <img src="slides/AIAA-2024-4251-slide-19.png" width = 800> 
+        <img src="slides/AIAA-2024-4251-slide-18.png" width = 800> 
+
+        </details> <br>
+
 - AIAA-2024-4216: Analyzing the Physiological Effects of Cybersickness Onset by Virtual Reality Headsets
     - Tabitha Hunter
     - Location: Alliance Ballroom 308Presentation ID: AIA...
@@ -677,8 +710,11 @@ Srivathsan
     - Christine P Taylor
     - Location: Summit Ballroom 227Presentation ID: AIAA-...
 
-        > Aerospace industry constraints, > focus on congestion  Focus on
-        > real-time decision making 
+        > Aerospace industry constraints, 
+        > 
+        > \> focus on congestion  Focus on
+        > 
+        > real-time decision making <br> <br>
         > 
         > Approach
         > - classify congestion
@@ -786,6 +822,20 @@ Srivathsan
         > - How to integrate sources with varying quality (ex. resolution)?
         > - Historical vs live data? Live day in progress.
 
+        <details> 
+        <summary> Slides </summary>  
+        
+        <img src="slides/AIAA-2024-4945-slide-16.png" width = 800> 
+        <img src="slides/AIAA-2024-4945-slide-17.png" width = 800> 
+        <img src="slides/AIAA-2024-4945-slide-15.png" width = 800> 
+        <img src="slides/AIAA-2024-4945-slide-14.png" width = 800> 
+
+
+        </details> <br>
+
+<!-- ![test](slides/slide-12.png)  -->
+
+
 - AIAA-2024-4946: Optimizing Fire Detection in Edge Devices: Integrating Skip Connections and Early Exits in Compact Models
     - Sambit Bhattacharya
     - Location: Summit Ballroom 207Presentation ID: AIAA-...
@@ -813,6 +863,21 @@ Srivathsan
         > 
         > Results
         > - Definitely tradeoffs, but possible
+
+        <details> 
+        <summary> Slides </summary>  
+        
+        <img src="slides/AIAA-2024-4946-slide-05.png" width = 800> 
+        <img src="slides/AIAA-2024-4946-slide-13.png" width = 800> 
+        <img src="slides/AIAA-2024-4946-slide-12.png" width = 800> 
+        <img src="slides/AIAA-2024-4946-slide-11.png" width = 800> 
+        <img src="slides/AIAA-2024-4946-slide-10.png" width = 800> 
+        <img src="slides/AIAA-2024-4946-slide-09.png" width = 800> 
+        <img src="slides/AIAA-2024-4946-slide-08.png" width = 800> 
+        <img src="slides/AIAA-2024-4946-slide-07.png" width = 800> 
+        <img src="slides/AIAA-2024-4946-slide-06.png" width = 800> 
+
+        </details> <br>
 
 - SPEC-10: Closing Ceremony
     - Location: Forum Ballroom 134
@@ -1003,6 +1068,16 @@ Srivathsan
         > Future
         > -   Various English accents
         > -   \> realistic GPT-based scoring model
+
+        <details> 
+        <summary> Slides </summary>  
+        
+        <img src="slides/AIAA-2024-4570-slide-04.png" width = 800> 
+        <img src="slides/AIAA-2024-4570-slide-03.png" width = 800> 
+        <img src="slides/AIAA-2024-4570-slide-02.png" width = 800> 
+        <img src="slides/AIAA-2024-4570-slide-01.png" width = 800> 
+
+        </details> <br>
 
 - CSS-01: Cybersecurity in Aviation
     - Radhakrishna G Sampigethaya
