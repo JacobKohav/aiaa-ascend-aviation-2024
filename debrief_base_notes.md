@@ -36,7 +36,7 @@ Powered by EventPilot
 - <img src="slides/image1.png" width = 25 align = top> EATS-HH: EATS Social Hour
     - Location: Alliance Ballroom 320Join us for an evening expl...
 
--  CB-03: Coffee Break Sponsored by ispace
+- <img src="slides/image1.png" width = 25 align = top> CB-03: Coffee Break Sponsored by ispace
     - Location: Summit Ballroom/Expo HallCoffee breaks allow eve...
 
 - <img src="slides/image1.png" width = 25 align = top> UAS-04: Optimising Human-Machine Relationship
@@ -356,7 +356,7 @@ Powered by EventPilot
 - <img src="slides/image1.png" width = 25 align = top> CB-04: Coffee Break
     - Location: Summit Ballroom/Expo HallCoffee breaks allow eve...
 
-- SEC-01: On-orbit Threats and Satellite Safety
+- <img src="slides/image1.png" width = 25 align = top> SEC-01: On-orbit Threats and Satellite Safety
     - Rajiv Thummala, Sean Phillips
     - Location: Summit Ballroom 206Session Organizers & Hosts...
 
@@ -411,11 +411,10 @@ Srivathsan
 - <img src="slides/image1.png" width = 25 align = top> LUNCH-02: Luncheon
     - Location: Summit Ballroom/Expo HallGrab your lunch and joi...
 
--  HUB-07: AI-in-the-Loop: An Aerospace Perspective
+- <img src="slides/image1.png" width = 25 align = top> HUB-07: AI-in-the-Loop: An Aerospace Perspective
     - Location: the HUBAI-in-the-Loop, its recent popularity, an...
-    - <img src="slides/image1.png" width = 25 align = top> EXPL-08: Autonomous Systems for the Moon and Mars II: AI, Agency, Authority, and Agility in Autonomous Systems Capability
 
-- Maturation
+- <img src="slides/image1.png" width = 25 align = top> EXPL-08: Autonomous Systems for the Moon and Mars II: AI, Agency, Authority, and Agility in Autonomous Systems Capability Maturation
     - B. Danette Allen
     - Location: Summit Ballroom 206Panel Discussion from 2:00-3:...
 
@@ -1079,11 +1078,11 @@ Srivathsan
 
         </details> <br>
 
-- CSS-01: Cybersecurity in Aviation
+- <img src="slides/image1.png" width = 25 align = top> CSS-01: Cybersecurity in Aviation
     - Radhakrishna G Sampigethaya
     - Location: Alliance Ballroom 308This aviation cybersecurity...
 
-- DGE-01: Digital Engineering
+- <img src="slides/image1.png" width = 25 align = top> DGE-01: Digital Engineering
     - Olivia J Pinon-Fischer
     - Location: Academy Ballroom 415Session Organizers & Host...
 
@@ -1114,7 +1113,7 @@ Srivathsan
 - <img src="slides/image1.png" width = 25 align = top> CB-10: Coffee Break
     - Location: Summit Ballroom FoyerCoffee breaks allow even mo...
 
-- DE-04: Design Science Research and Applications of AI and ML
+- <img src="slides/image1.png" width = 25 align = top> DE-04: Design Science Research and Applications of AI and ML
     - Gregory L Roth, Paul Novoa
     - Location: Alliance Ballroom 304Session Organizers & Hos...
 
