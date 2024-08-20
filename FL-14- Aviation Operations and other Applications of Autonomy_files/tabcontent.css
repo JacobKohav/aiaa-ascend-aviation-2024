@@ -1,0 +1,72 @@
+﻿/* Tab Content - menucool.com */
+ul.tabs
+{
+    display:none;
+	z-index: 1;
+    padding: 10px 0;
+    font-size: 0;
+    list-style-type: none;
+    text-align: left; /*set to left, center, or right to align the tabs as desired*/
+    font-weight:400;
+} 
+ul.tabs li{	
+	z-index: 1;
+    display: inline;
+	margin-right:1px; /*distance between tabs*/
+}
+        
+ul.tabs li a, ul.tabs li .moretab {
+	font-size: 14px;
+    text-decoration: none;
+    position: relative;
+    padding: 10px 16px;
+    color: #333;
+    border-radius: 2px 2px 0 0;
+    outline:none;
+    cursor:pointer;
+}
+ul.tabs li a .tab_name, ul.tabs li .moretab span{
+	opacity:.7;
+}
+
+ul.tabs li.selected a .tab_name, ul.tabs a:hover .tab_name, ul.tabs .moretab:hover span{
+	opacity:1;
+    
+}
+
+        
+ul.tabs li.selected a, ul.tabs li.selected a:hover,  ul.tabs li .moretab.moreSelected{
+    position: relative;
+    top: 0px;
+    /* font-weight:bold; */
+	box-shadow:none;
+}
+
+.tabs li .moretab {
+    position:relative;
+}
+
+.more_tabs_menu{
+    display:none;
+    position:absolute;
+    left:0;
+    top:36px;
+    max-height: 75vh;
+    overflow: auto;
+    background-color:#fff;
+    box-shadow:3px 3px 3px rgba(0, 0, 0, .7);
+    z-index:100;
+    border:thin solid #ddd;
+}
+
+ul.tabs li .more_tabs_menu a{
+    opacity:.8;
+    display: block;
+    white-space: nowrap;
+    box-shadow: none;
+    border-radius: 0;
+
+}
+ul.tabs li .more_tabs_menu a:hover, ul.tabs li .more_tabs_menu .selected a{
+    opacity:1;
+}

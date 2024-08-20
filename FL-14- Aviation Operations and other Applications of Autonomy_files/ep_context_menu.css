@@ -1,0 +1,126 @@
+/*
+This css is applied to a table with the following dom structure. 
+
+<div class="ep_context_menu_container">
+	<div class="ep_context_menu_toggle" onclick="ToggleDropdownMenu($(this))" style="margin-left:-15px;"><img title="Options" src="../doc/common/web/icon_schedule.png" width="18px" height="18px" style="margin-bottom:-3px;margin-right:5px;"/> Download Schedule </div>
+
+	<table class="ep_context_menu">
+		<tr><td>
+			<div class="arrow"></div>
+		</td></tr>	
+		<tr><td title="Short description of menu option for hover">
+			<a onclick="DownloadSchedule(\'pdf2\')">PDF - 2 Column</a>
+		</td></tr>
+		<tr><td title="Short description of menu option for hover">
+			<a onclick="DownloadSchedule(\'pdf3\')">PDF - 3 Column</a>
+		</td></tr>	
+		<tr><td title="Short description of menu option for hover"  style="padding-bottom:3px;">
+			<a onclick="DownloadSchedule(\'pdf4\')">PDF - 4 Column</a>
+		</td></tr>
+
+		<tr style="border-top:thin solid #CCCCCC"><td title="Short description of menu option for hover" style="padding-top:3px;">
+			<a onclick="DownloadSchedule(\'csv\')">CSV Spreadsheat</a>
+		</td></tr>	
+		<tr><td title="Short description of menu option for hover">
+			<a onclick="DownloadSchedule(\'ics\')">ICS Calendar File</a>
+		</td></tr>					
+	</table>
+</div>
+
+
+********* IMPORTANT ********
+For the dropdown menu to work, you must also include a reverence to:
+
+<script type="text/javascript" src="../common/ep_js/ep_context_menu.js"></script>
+
+Ensure that the source path to the file is correct for each implementation.
+Written by R Raymond
+Copyright ATIV Software, 2015.
+*/
+
+
+.ep_context_menu_container{
+	position:relative;
+
+}
+
+.ep_context_menu_toggle{
+	position:relative;
+	display:inline-block;
+	font-weight:300;
+	margin-bottom:10px;
+	margin-right:10px;
+	cursor:context-menu;
+	z-index:5;
+}
+
+.button_toggle{
+	padding:3px;
+	opacity:.7;
+	height:18px;
+	width:18px;
+	border-radius:2px;
+	width:18px;
+	height:18px;
+	background:#FFFFFF;
+	box-shadow: 0px 0px 0px 1px rgba(0,0,0,.6);
+    display:flex;
+}
+.button_toggle:hover{
+	opacity:.9;
+	background:#CCCCCC;
+}
+.button_toggle.selectedMenu{
+	opacity:.8;
+	background:#CCCCCC;
+}
+
+.text_toggle{
+	
+}
+.text_toggle:hover;{
+	
+}
+.text_toggle.selectedMenu{
+	
+}
+
+.ep_context_menu {
+	color:#333;
+	font-size:12px;
+	width:125px;
+	z-index:900;
+	background:rgba(245,245,245,.96);
+	position:absolute;
+	text-align:left;
+	top:25px;
+	left:-20px;
+	display:none;
+	border-radius:4px;
+	padding:10px 15px;
+	margin-top:5px;
+	-moz-box-shadow: 2px 2px 6px rgba(0,0,0,.5);
+	-webkit-box-shadow: 2px 2px 6px rgba(0,0,0,.5);
+	box-shadow: 2px 2px 6px rgba(0,0,0,.5);
+}
+
+.ep_context_menu.selectedMenu {
+	display:block !important;
+}
+
+.ep_context_menu a{
+	cursor:pointer;
+}
+.ep_context_menu a:hover{
+	text-decoration:underline;
+}
+
+.ep_context_menu_container .arrow{
+	margin-top:-21px;
+	margin-left:3px;
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 0 10px 10px 10px;
+	border-color: transparent transparent rgba(245,245,245,.96); transparent;
+}

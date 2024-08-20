@@ -1,0 +1,201 @@
+        .uidraw_debug{
+            font-size:0.6em;
+            color:red;
+        }
+        .uidraw_debug:hover{
+            cursor:pointer;
+            text-decoration:underline;
+        }
+
+        /* Create a font face with an embedded inline font using base64 */
+        @font-face {
+            font-family: 'Blank';
+            font-style: normal;
+            font-weight: 200;
+            src: url('data:application/font-woff2;charset=utf-8;base64,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') format('woff2');
+        }
+
+        @font-face {
+            font-family: 'FontAwesome Sharp Thin';
+            font-style: normal;
+            font-weight: 200;
+            font-display: block;
+            src: url('../../../fontawesome/fa-sharp-thin-100.woff2') format('woff2');
+        }
+        .fontawesome-sharp-thin {
+            font-family: 'FontAwesome Sharp Thin', Blank;
+            font-weight: normal;
+            font-style: normal;
+            font-size: 24px;
+            line-height: 1;
+            letter-spacing: normal;
+            text-transform: none;
+            display: inline-block;
+            white-space: nowrap;
+            word-wrap: normal;
+            direction: ltr;
+            -webkit-font-feature-settings: 'liga';
+            -webkit-font-smoothing: antialiased;
+        }
+        @font-face {
+            font-family: 'Material Icons Outlined';
+            font-style: normal;
+            font-weight: 200;
+            font-display: block;
+            src: url('../../../mdl/MaterialDesignOutline.woff2') format('woff2');
+        }
+        .material-symbols-outlined {
+            font-family: 'Material Icons Outlined', Blank;
+            font-weight: normal;
+            font-style: normal;
+            font-size: 24px;
+            line-height: 1;
+            letter-spacing: normal;
+            text-transform: none;
+            display: inline-block;
+            white-space: nowrap;
+            word-wrap: normal;
+            direction: ltr;
+            -webkit-font-feature-settings: 'liga';
+            -webkit-font-smoothing: antialiased;
+        }
+        @font-face {
+            font-family: 'Material Icons';
+            font-style: normal;
+            font-weight: 200;
+            font-display: swap;
+            src: url('../../../mdl/MaterialDesign.woff2') format('woff2');
+        }
+        .material-icons {
+            font-family: 'Material Icons Outlined', Blank;
+            font-weight: normal;
+            font-style: normal;
+            font-size: 24px;
+            line-height: 1;
+            letter-spacing: normal;
+            text-transform: none;
+            display: inline-block;
+            white-space: nowrap;
+            word-wrap: normal;
+            direction: ltr;
+            -webkit-font-feature-settings: 'liga';
+            -webkit-font-smoothing: antialiased;
+        }
+        @media (hover: none) {
+            .mdl-tooltip {
+                display: none !important; /* Using !important to override any other conflicting styles */
+            }
+        }
+        .uidraw_button{
+            border:1px solid #777;
+            padding:10px;
+            border-radius:3px;
+            color: #777;
+            background-color:white;
+            font-size:1.1em;
+        }
+        .uidraw_button:hover{
+            background-color:#EEE;
+        }
+
+        .uidraw_disabled{
+            pointer-events: none;
+            opacity: 0.4;
+            color: #777;
+            cursor: default;
+            filter: grayscale(1);
+        }
+        .ep_button_cancel, .ep_button_confirm, .ep_button_disabled, .ep_button_white, .ep_button_warning, .ep_button_orange, .ep_button_selected, .ep_button_green {
+            text-decoration: none;
+            text-shadow: none;
+            cursor: default;
+            text-align: center;
+            display: inline-block;
+            padding: 5px 10px;
+            border: 1px solid rgba(0, 0, 0, 0.1);
+            border-radius: 4px;
+            margin: 10px 10px 10px 10px;
+            font-size: 13px;
+            -webkit-touch-callout: none;
+            -webkit-user-select: none;
+            -khtml-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+        .ep_button_disabled {
+            border: 1px solid #777;
+            background-color: #FFF;
+            color: #777; 
+        }
+        .ep_button_white {
+            border: 1px solid #659cef;
+            background-color: #FFF;
+            color: #659cef; 
+        }
+        .ep_button_white:hover:not(.disabled) {
+            background-color: rgba(101, 156, 239, 0.1);
+            text-decoration: none;
+            cursor: pointer; 
+        }
+        .ep_button_cancel {
+            background-color: #EFEFEF;
+            color: #666; 
+        }
+        .ep_button_cancel:hover:not(.disabled) {
+            background-color: #DEDEDE;
+            text-decoration: none;
+            cursor: pointer; 
+        }
+        .ep_button_confirm {
+            background-color: #1679C2;
+            color: #FFF !important; 
+        }
+        .ep_button_confirm:hover:not(.disabled) {
+            background-color: #1770a0;
+            text-decoration: none;
+            cursor: pointer; 
+        }
+        .ep_button_warning {
+            background-color: #DD3F47;
+            color: #FFF; 
+        }
+        .ep_button_warning:hover:not(.disabled) {
+            background-color: #c63940;
+            text-decoration: none;
+            cursor: pointer; 
+        }
+        .ep_button_orange {
+            background-color: #FF8C00;
+            color: #FFF; 
+        }
+        .ep_button_orange:hover:not(.disabled) {
+            background-color: #FF7F00;
+            text-decoration: none;
+            cursor: pointer; 
+        }
+        .ep_button_green {
+            background-color: #48742C;
+            color: #FFF; 
+        }
+        .ep_button_green:hover:not(.disabled) {
+            background-color: #48642C;
+            text-decoration: none;
+            cursor: pointer; 
+        } 	   
+        .ep_button_selected {
+            background-color: #7cc142;
+            color: #FFF; 
+            cursor:pointer;
+        }
+        .ep_button_selected:hover {
+            background-color: #6ba739;
+            color: #FFF; 
+            text-decoration:none;
+        }
+        /* Hide MDL tooltips on screens smaller than 768px */
+        @media (hover: none){
+            .mdl-tooltip {
+                display: none !important; /* Using !important to override any other conflicting styles */
+            }
+        }

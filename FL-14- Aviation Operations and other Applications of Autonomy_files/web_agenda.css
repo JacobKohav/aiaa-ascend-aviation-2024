@@ -1,0 +1,162 @@
+li {
+	border: none !important;
+	background-image:none !important; 
+}
+
+.ui-li-heading{
+	font-weight:normal;
+}
+
+/*	list overrides for session display (handle category images properly)*/
+.catimg {
+	height: 70px !important;
+	padding: 0px !important;
+	background-image:url('../../doc/common/images/detaildisclosurebutton.png');
+	background-repeat:no-repeat;
+	background-position: right 0px center;
+    display:flex;
+    text-decoration: none;
+    cursor:pointer;
+}
+.catcolor_circle {
+	float:left;
+	height:18px;
+	width:18px;
+	margin:23px;
+	border-radius:50%;
+}
+.cattext {
+	font-weight:400;
+	display: inline-block;
+    margin-top: 22px;
+    font-size: 16px;
+    flex-grow:1;
+
+}
+/*	media list style overrides*/
+.medialist {
+	padding: 0px !important;
+}
+.mediabgicon{
+	float: left;
+    height: 70px;
+    width: 85px;
+    margin: -6px;
+    margin-right: 10px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.medialisticon {
+	z-index: -1;
+	margin-left: 15px;
+	margin-top:5px;
+	height:70px;
+}
+.mediatextwrapper {
+	margin-left: 8px;
+}
+.media_message {
+	background-color: #FFFBE9 !important;
+}
+.media_message h1 {
+	color: #1B75BB !important;
+	text-shadow: none !important;
+	text-decoration: none !important;
+}
+.media_alert {
+	background-color: #FFFFFF !important;
+	background-image:url('../../../../doc/common/images/detaildisclosurebutton@2x.png');
+	background-size: 30px 30px;
+	background-repeat: no-repeat;
+	background-position: 98% center;
+	border-bottom: thin solid #666666;
+}
+.media_alert h1 {
+	color: #333333 !important;
+	text-shadow: none !important;
+	text-decoration: none !important;
+}
+.media_alert p{
+	color: #666666 !important;
+}
+/*custom icon classes for separator bars			*/
+.ui-icon-ep-media {
+	background: url('../doc/common/images/nav_media.png') no-repeat !important;
+}
+
+
+.sub_session_bar {
+	margin-right: -56px;
+	height: 15px;
+	width:71px;
+	background-color: #333;
+	float: left;
+	color: #EEE;
+	font-size: 9px;
+    font-weight: 100;
+	text-align:center;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+    text-shadow:none;
+	overflow: hidden;
+	transform:rotate(270deg) translate(-28px, -28px);
+	-ms-transform:rotate(270deg) translate(-28px, -28px); /* IE 9 */
+	-webkit-transform:rotate(270deg) translate(-28px, -28px); /* Safari and Chrome */
+}
+.session_catimg{
+	width:23px;
+	height:70px;
+	z-index:10;
+	position:absolute;
+	top:0px;
+}
+.session_catimg:hover{
+	background: #FFF;
+}
+
+.sub-session {
+    background-color: #333;
+    margin-right:-52px; /* This is to pull the category label up against the subsession banner. */
+}
+
+
+.session_title {
+	position:absolute;
+	left:45px;
+	top:10px;
+	right:70px;
+	color:#333;
+	font-size: 16px;
+	font-weight: 300;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	text-shadow: none;
+}
+.session_date_time, .session_location{
+	font-weight: 200;
+    font-size:.75em;
+    color: #333;
+    padding-bottom: 7px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    position: absolute;
+    bottom:0;
+    text-shadow: none;
+}
+
+.session_date_time{
+    width:33%;
+    left:45px;
+}
+.session_location { /* aditional location-specific styles */
+	text-align: right;
+    width:52%;
+    right:10px;
+}
+#filtererrormsg{
+	text-align:center;
+}
